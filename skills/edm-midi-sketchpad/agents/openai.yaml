@@ -1,0 +1,3 @@
+interface:
+  display_name: "EDM MIDI Sketchpad"
+  short_description: "Edit try_edm YAML patterns, arrangements, and MIDI renders"
